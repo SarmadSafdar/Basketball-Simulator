@@ -23,7 +23,6 @@ A fun and interactive basketball series simulator built using **Python** and **T
 2. Run the script:
    ```bash
    python basketball_simulator.py
-
-   👨‍💻 Author
-
+   
+👨‍💻 Author
 Sarmad Safdar
